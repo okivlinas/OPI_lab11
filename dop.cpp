@@ -12,7 +12,7 @@ int chooseWeather()
     
     else
     {
-        cout << "do essay" << endl;
+        cout << "do esay" << endl;
         cout << "eat" << endl;
         cout << "do essay";
     }
